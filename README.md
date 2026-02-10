@@ -4,4 +4,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=begzodds&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My LeetCode Profile
-[Visit my LeetCode profile]((https://leetcode.com/u/begzodds/))
+[Visit my LeetCode profile](https://leetcode.com/u/begzodds/)
