@@ -29,7 +29,6 @@
 **Languages:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **ML / AI:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -61,15 +60,10 @@ Explored ML approaches to software vulnerability detection by analyzing large-sc
 
 ### Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/begzod-abdumutalliev-a14486232)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bekzodabdumutalliyev@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/begzodds/)
 
 ---
 
 *"Building secure and intelligent systems, one line of code at a time."*
-
-
-<img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" />
-
-## My LeetCode Profile
-[Visit my LeetCode profile](https://leetcode.com/u/begzodds/)
