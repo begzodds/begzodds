@@ -1,3 +1,74 @@
+# Hi there, I'm Begzod 👋
+
+**Head of IT at Ifoda Agro Chemistry Protection | Assistant Teacher at Najot Ta'lim | MSc Data Science Student**
+
+---
+
+### About Me
+
+🎓 Master's student in **Data Science** at Università degli Studi di Messina, Italy
+
+💼 Currently leading the IT department at **Ifoda Agro Chemistry Protection** and assisting to teach at **Najot Ta'lim**
+
+🔬 Researching **AI-powered software vulnerability detection** using Deep Learning & Federated Learning
+
+🛡️ Passionate about **Cybersecurity**, **Machine Learning**, and building secure software systems
+
+---
+
+### What I'm Working On
+
+- 🔍 Exploring vulnerability detection with LLMs (RoBERTa, GPT-2, T5) and Graph Neural Networks
+- 🤝 Investigating Federated Learning for privacy-preserving security analysis
+- 📊 Building data-driven solutions at the intersection of AI and cybersecurity
+
+---
+
+### Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**ML / AI:**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+**Data & Visualization:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+
+---
+
+### Featured Project
+
+#### 🛡️ SecureCode AI: Vulnerability Detection with Deep Learning & Federated Learning
+Explored ML approaches to software vulnerability detection by analyzing large-scale datasets (DiverseVul) and privacy-preserving federated learning (VulFed). Evaluated 11 model architectures across 150+ CWE types, covering trade-offs between detection accuracy, false positive rates, and data privacy.
+
+**Key topics:** `Machine Learning` `Deep Learning` `Federated Learning` `NLP` `Cybersecurity` `LLMs`
+
+---
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+*"Building secure and intelligent systems, one line of code at a time."*
+
+
 <img src="https://github.com/Mukhriddin19980901/Mukhriddin19980901/blob/main/Python.gif" width="50" height="50" />
 
 ## My LeetCode Profile
